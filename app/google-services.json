@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719731013716",
+    "project_id": "kotlinnnn-bc23b",
+    "storage_bucket": "kotlinnnn-bc23b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719731013716:android:c244fea5c8d753a17a95c1",
+        "android_client_info": {
+          "package_name": "com.pro.electronic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_r6t2uTYKf2vuUEBIYTn-J5gA8YRYkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
